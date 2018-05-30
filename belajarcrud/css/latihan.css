@@ -1,0 +1,14 @@
+
+body{
+	background-color: #2C97DF;
+}
+.border{
+	background-color: white;
+	margin-top: 40px;
+	margin-color: #2C97DF;
+}
+.tombol{
+	background-color: #2C97DF;
+	height: 40px;
+	width: 200px;
+}
